@@ -29,7 +29,7 @@ python scraper.py
 - The script will generate a `Flipkart_Data.csv` file containing the scraped data.
 
 ## How It Works
-1. Sends requests to Flipkart’s search page for produxt.
+1. Sends requests to Flipkart’s search page for product.
 2. Parses the webpage using BeautifulSoup.
 3. Extracts the required details using HTML classes.
 4. Saves the extracted data into a CSV file.
